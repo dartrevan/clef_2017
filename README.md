@@ -8,6 +8,8 @@ After installing libraries nltk punkt model must be downloaded
         import nltk
         nltk.download('punkt')
 
+Unpack dictionary_vectors.zip
+
 ### Usage:
     python predict.py -c file_path
     file_path is a path to the file with death certificates in CLEF eHealth Task 1 format
