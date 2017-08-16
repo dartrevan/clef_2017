@@ -16,3 +16,15 @@ Unpack dictionary_vectors.zip
 
 
 #### Note: For additional scripts used for training RNNs please contact zulfatmi@gmail.com
+
+#### Citing:
+#####  KFU at CLEF eHealth 2017 Task 1: ICD-10 Coding of English Death Certificates with Recurrent Neural Networks Z Miftakhutdinov, E Tutubalina - 2017
+  http://ceur-ws.org/Vol-1866/paper_64.pdf
+##### BibTex:
+    @inproceedings{
+        miftakhutdinov2017kfu,
+        title={KFU at CLEF eHealth 2017 Task 1: ICD-10 Coding of English Death Certificates with Recurrent Neural Networks},
+        author={Miftakhutdinov, Z and Tutubalina, Elena},
+        year={2017},
+        organization={CLEF}
+    }
